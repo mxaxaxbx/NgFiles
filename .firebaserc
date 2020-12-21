@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-62ae6": {
+      "hosting": {
+        "fotos-firebase": [
+          "crud-62ae6"
+        ]
+      }
+    }
+  }
+}
